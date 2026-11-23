@@ -1,0 +1,7 @@
+__pycache__/
+preview/
+.vercel/
+.env*
+
+tests/
+preview/
